@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    font-size: 50pt;
+    font-weight: 700;
+
+}
+
+.numbers {
+    padding: 50px;
+}
+
+body {
+    background: linear-gradient(to right, #26d0ce, #1a2980);
+}
